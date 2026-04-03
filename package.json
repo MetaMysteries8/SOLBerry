@@ -1,0 +1,30 @@
+{
+  "name": "solberry",
+  "version": "1.0.0",
+  "description": "A tiny an easy to host solana payment platform, that fits on a raspberry pi. Built with help from some friends. \r built with [Solana Pay](https://github.com/solana-foundation/pay)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaMysteries8/SOLBerry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MetaMysteries8/SOLBerry/issues"
+  },
+  "homepage": "https://github.com/MetaMysteries8/SOLBerry#readme",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "bcrypt": "^6.0.0",
+    "better-sqlite3": "^12.8.0",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "qrcode": "^1.5.4"
+  }
+}
