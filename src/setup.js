@@ -20,8 +20,18 @@ rl.question("What is your credit card? SSN, Home address, Phone Number, Mothers 
 
 // you probably shouldn't keep that in production
 // seriously though, don't.
-//fuckass autocomplete how do I disable this shit , disable it (B U T     W H E R E   there)
+// please teach me to node the js :pensive face emoji part 2:
+// i cant teach :sob:
+// hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm find me thing to learn froms Idk aowijefaoiwejfoaiwjefoawjfeoiawjef
+//sob
 
+// we need ${water}
+// uhhh ill try to teach
+// we could also just find some sort of tutorial or something idk? maybe a learning plan? idk
+// or we could just take "inspiration" from other similar repos
+// stackoverflow is totally good idea, def not gonna get banished to the shadow realm for asking some random fukin question.
+//fuckass autocomplete how do I disable this shit , disable it (B U T     W H E R E   there)
+// at the speed this is developed we're gonna have this done in 10 bajillion years :money_mouth_emoji_face_goes_here:
 // ima grab some fucking water idk
 // pls teach me how to node js 😔 
 
