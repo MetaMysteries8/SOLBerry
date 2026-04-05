@@ -26,7 +26,9 @@ rl.question("What is your credit card? SSN, Home address, Phone Number, Mothers 
 // pls teach me how to node js 😔 
 
 // so what things do we need to setup first
-
+// no like packages and stuff also imma go shower brb
+// ok eeeee  idk how to node said meta man
+// incoming git sync prepare thyself
 // i love 3 high severity vulnerabilities
 // back, also I don't know shit about node js somewhat, I'll learn from this lol (pls teach me :pensive: (same but i know 1 or 2 things))
 
